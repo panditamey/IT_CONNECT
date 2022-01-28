@@ -57,9 +57,6 @@ public class FacultyActivity extends AppCompatActivity {
                 .load("https://www.atharvacoe.ac.in/wp-content/uploads/Odilia.jpg")
                 .apply(requestOptions)
                 .into(og);
-        Glide.with(FacultyActivity.this)
-                .load("https://www.atharvacoe.ac.in/wp-content/uploads/Sejal-D-mello.jpg")
-                .apply(requestOptions)
-                .into(sd);
+
     }
 }

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F4F9F9"
+    android:background="@drawable/stacked_waves_haikei"
     android:id="@+id/drawerLayout"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
@@ -105,6 +105,7 @@
         app:menu="@menu/navigation_drawer"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/drawer_header"
+        android:background="#1E78FF"
         app:itemTextAppearance="?android:attr/textAppearanceMedium"
         android:layout_gravity="start">
 

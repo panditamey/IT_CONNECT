@@ -1,10 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.ITConnect" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.ITConnect" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#A4EBF3</item>
-        <item name="colorPrimaryVariant">#89E3ED</item>
+        <item name="colorPrimary">#1E78FF</item>
+        <item name="colorPrimaryVariant">#0066FF</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
